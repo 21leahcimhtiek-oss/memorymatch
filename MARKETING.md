@@ -1,0 +1,1 @@
+# Marketing\r\n\r\n## Aurora ecosystem message\r\n- Position as an Aurora-ready building block for composable workflows.\r\n- Highlight no-key-first onboarding in launch copy and demos.\r\n\r\n## Channels\r\n- GitHub README updates\r\n- Product demo clips\r\n- Community launch posts\r\n

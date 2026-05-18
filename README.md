@@ -42,3 +42,9 @@ https://auroramarket.org
 ---
 
 Built with ❤️ by Aurora Rayes LLC
+
+## Aurora Ecosystem Positioning
+This project is positioned in the Aurora ecosystem as a composable module that can plug into adjacent Aurora services and workflows.
+
+## No-Key-First Setup
+No-key-first: the default local development and evaluation flow should work before adding any external API keys.
